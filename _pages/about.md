@@ -14,20 +14,12 @@ I'm interested in understanding learning in artificial and biological systems. T
 Research Interests
 ======
 * Statistical mechanics of learning in neural networks
-  - learning capacity and generalization in deep networks
-  - theory of transfer and multi-task learning
 
 * Dynamics and learning in recurrent neural networks
-  - dynamical mean field theory for heterogeneous networks
-  - learning in biologically-plausible RNNs
 
 * Efficiency of neural computation
-  - stochastic thermodynamics of learning at the mesoscale
-  - computation-dissipation tradeoffs in neural systems
 
 * Multiscale methods for neural networks
-  - advanced Monte Carlo methods and the loss landscape of learning problems
-  - coarse graining for neural representations
 
 Bio
 ======
