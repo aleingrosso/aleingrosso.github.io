@@ -4,7 +4,7 @@ collection: teaching
 type: "Master course"
 permalink: /teaching/2025-adv-ml
 venue: "Radboud University"
-date: 2025
+date: 2025-11-03
 location: "Nijmegen"
 ---
 

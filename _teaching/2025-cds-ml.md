@@ -4,7 +4,7 @@ collection: teaching
 type: "Master course"
 permalink: /teaching/2025-cds-ml
 venue: "Radboud University"
-date: 2025
+date: 2025-09-01
 location: "Nijmegen"
 ---
 
