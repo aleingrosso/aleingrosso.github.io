@@ -44,7 +44,7 @@ We employ a variety of approaches rooted in statistical physics and applied math
 
 ## Statistical mechanics of deep learning
 
-<img class="leftAlign" src="stat_mech_transfer.png" width=200>
+<img class="leftAlign" src="/images/stat_mech_transfer.png" width=200>
 
 We are focused on understanding the typical learning and generalization performance of neural networks. To do so, we use tools from statistical physics of disordered systems (replica method) and random matrix theory.
 In collaboration with the group of [Federica Gerace](https://www.unibo.it/sitoweb/federica.gerace/en) and [Pietro Rotondo](https://personale.unipr.it/en/ugovdocenti/person/246194), we are currently developing a theory for transfer and multi-task learning in Bayesian deep networks.
@@ -61,7 +61,7 @@ Suggested reading:
 
 ## Dynamics and learning in recurrent neural networks
 
-<img class="leftAlign" src="rnn_chaos.png" width=200>
+<img class="leftAlign" src="/images/rnn_chaos.png" width=200>
 
 We use concepts and methods from statistical physics and control theory to analyze learning in recurrent neural networks. We are recently focused on understanding quantitatively the role of heterogeneity in RNNs, using both dynamical mean field theory and numerical approaches.
 
@@ -77,7 +77,7 @@ Suggested reading:
 
 ## Efficiency of neural computation
 
-<img class="leftAlign" src="multispin.png" width=500>
+<img class="leftAlign" src="/images/multispin.png" width=500>
 
 Our recent focus is on the efficiency of neural computation from both an information theoretic and energetic perspective. Using methods from Stochastic Thermodynamics, I recently formulated a computation-dissipation bottleneck for stochastic recurrent neural networks operating at the mesoscale.
 
@@ -90,7 +90,7 @@ Suggested reading:
 
 ## Multiscale methods for neural networks
 
-<img class="leftAlign" src="density_of_states.png" width=300>
+<img class="leftAlign" src="/images/density_of_states.png" width=300>
 
 We use advanced Monte Carlo methods borrowed from Soft Matter Physics to analye the geometrical properties of the loss landscape of neural network learning problems. We are currently developing novel optimal coarse graining methods to understand the structure of internal representations of trained neural networks.
 
