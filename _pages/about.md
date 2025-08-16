@@ -9,16 +9,13 @@ redirect_from:
 
 I'm an Assistant professor in the [Neurophysics](https://www.ru.nl/en/education/masters/neurophysics) section at the [Donders Centre for Neuroscience](https://www.ru.nl/en/donders-centre-for-neuroscience), [Radboud University](https://www.ru.nl/en).
 
-I'm interested in understanding learning in artificial and biological systems. To this aim, I adopt a research approach at the intersection between Statistical Physics, Machine Learning and Theoretical Neuroscience.
+I'm interested in understanding learning in artificial and biological systems. To this aim, I adopt a research approach at the intersection of **Statistical Physics**, **Machine Learning** and **Theoretical Neuroscience**.
 
 Research Interests
 ======
-* Statistical mechanics of learning in neural networks
-
+* Statistical mechanics of deep learning
 * Dynamics and learning in recurrent neural networks
-
 * Efficiency of neural computation
-
 * Multiscale methods for neural networks
 
 Bio
