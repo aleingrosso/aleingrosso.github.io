@@ -93,11 +93,11 @@ Suggested reading:
 
 <img class="leftAlign" src="/images/density_of_states.png" width=300>
 
-We use borrow advanced Monte Carlo methods from Soft Matter Physics to analyze the geometrical properties of the **loss landscape** of neural network learning problems. We are currently developing novel **optimal coarse graining** methods to understand the structure of internal representations of trained neural networks.
+We employ advanced Monte Carlo methods from _Soft Matter Physics_ to study the geometry of **loss landscapes** in neural network learning problems. We are currently developing novel **optimal coarse graining** methods to analyze how internal representations evolve over the course of learning, in an attempt to identify relevant subsets of neurons in deep networks.
 
 This work is mainly carried out in collaboration with the group of [Raffaello Potestio](https://sbp.physics.unitn.it/raffaello-potestio/) at [UniTn](https://www.physics.unitn.it/en). 
 <br clear="left"/>
 
 Suggested reading:
 * [Density of states in neural networks: an in-depth exploration of learning in parameter space
-](https://openreview.net/forum?id=BLDtWlFKhn), M. Mele et al
+](https://openreview.net/forum?id=BLDtWlFKhn), M. Mele et al, Transactions on Machine Learning Research (2025)
