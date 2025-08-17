@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Assistant professor in the [Neurophysics](https://www.ru.nl/en/education/masters/neurophysics) section at the [Donders Centre for Neuroscience](https://www.ru.nl/en/donders-centre-for-neuroscience), [Radboud University](https://www.ru.nl/en).
+I'm Assistant Professor in the [Neurophysics](https://www.ru.nl/en/education/masters/neurophysics) section at the [Donders Centre for Neuroscience](https://www.ru.nl/en/donders-centre-for-neuroscience), [Radboud University](https://www.ru.nl/en).
 
 I'm interested in understanding learning in artificial and biological systems. To this aim, I adopt a research approach at the intersection of **Statistical Physics**, **Machine Learning** and **Theoretical Neuroscience**.
 
@@ -25,4 +25,4 @@ I studied Cognitive Psychology (2004-2007) and Physics (2007-2013), obtaining a 
 
 I was a postdoctoral fellow at the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/), Columbia University (2016-2020) and an independent senior postdoc at [ICTP](https://www.ictp.it/), Trieste (2020-2024).
 
-Since September 2024, I am assistant professor at Radboud University, Nijmegen.
+Since September 2024, I am Assistant Professor at Radboud University, Nijmegen.

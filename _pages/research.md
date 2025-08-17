@@ -45,15 +45,14 @@ We employ a variety of approaches rooted in statistical physics and applied math
 
 <img class="leftAlign" src="/images/stat_mech_transfer.png" width=200>
 
-We are focused on understanding the typical *learning* and *generalization* performance of neural networks. To this aim, we use tools from statistical physics of disordered systems and random matrix theory.
+We are focused on understanding the typical learning and generalization performance of neural networks. To this aim, we use tools from statistical physics of disordered systems and random matrix theory.
 
 In collaboration with the group of [Federica Gerace](https://www.unibo.it/sitoweb/federica.gerace/en) and [Pietro Rotondo](https://personale.unipr.it/en/ugovdocenti/person/246194), we are currently developing a theory for **transfer** and **multi-task learning** in Bayesian deep networks.
 
 We are also particularly interested in understanding the impact of **biological constraints** on computation, deriving fundamental bounds for the function of biologically-plausible neural networks.
-
 <br clear="left"/>
 
-Suggested reading:
+_Suggested reading_:
 * [Statistical Mechanics of Transfer Learning in Fully Connected Networks in the Proportional Limit](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.177301), A. Ingrosso et al, Physical Review Letters (2025)
 * [Data-driven emergence of convolutional structure in neural networks](https://www.pnas.org/doi/abs/10.1073/pnas.2201854119), A. Ingrosso and S. Goldt, PNAS (2022)
 * [Optimal learning with excitatory and inhibitory synapses](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008536), A. Ingrosso, PLOS Computational Biology (2020)
@@ -70,7 +69,7 @@ Using methods from Stochastic Thermodynamics, we recently formulated a **computa
 The aim of my group is to develop a mathematical formalism to characterize fundamental tradeoffs between computation and energy consumption in both rate and spiking networks performing function.
 <br clear="left"/>
 
-Suggested reading:
+_Suggested reading_:
 * [Machine learning at the mesoscale: A computation-dissipation bottleneck](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.014132), A. Ingrosso and E. Panizon
 
 ## Dynamics and learning in recurrent neural networks
@@ -82,7 +81,7 @@ We use concepts and methods from statistical physics and control theory to analy
 In parallel, we build *data-driven models* for neural population dynamics, using large-scale recordings in behaving animals performing tasks. This work is manly done in collaboration with [Timo Kerkoele's lab](https://www.neuroscience.vision/) and [Wouter Kroot](https://www.ru.nl/personen/kroot-w).
 <br clear="left"/>
 
-Suggested reading:
+_Suggested reading_:
 * [Input correlations impede suppression of chaos and learning in balanced firing-rate networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010590), R. Engelken et al, PLOS Computational Biology (2022)
 * [A Disinhibitory Circuit for Contextual Modulation in Primary Visual Cortex](https://www.cell.com/neuron/fulltext/S0896-6273(20)30891-6), A.J. Keller et al, Neuron (2020)
 * [Training dynamically balanced excitatory-inhibitory networks
@@ -98,6 +97,6 @@ We employ advanced Monte Carlo methods from _Soft Matter Physics_ to study the g
 This work is mainly carried out in collaboration with the group of [Raffaello Potestio](https://sbp.physics.unitn.it/raffaello-potestio/) at [UniTn](https://www.physics.unitn.it/en). 
 <br clear="left"/>
 
-Suggested reading:
+_Suggested reading_:
 * [Density of states in neural networks: an in-depth exploration of learning in parameter space
 ](https://openreview.net/forum?id=BLDtWlFKhn), M. Mele et al, Transactions on Machine Learning Research (2025)
