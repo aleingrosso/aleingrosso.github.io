@@ -63,7 +63,7 @@ A summer school built with the aim of promoting the field of Computational Neuro
 
 A fantastic teaching and learning experience, with students from all over South America, alongside [Cristina Savin](https://as.nyu.edu/faculty/cristina-savin.html), [Enzo Tagliazucchi](https://brainlat.uai.cl/profesor/enzo-tagliazucchi/), [Alessandro Treves](https://phdcns.sissa.it/faculty/alessandro-treves) and many others.
 
-I gave a mini-course on **dynamics and learning in recurrent neural networks**. Find the jupyter notebooks used in the tutorial at this [link](https://github.com/aleingrosso/laconeu2023_rnn).
+Find the jupyter notebooks used in the tutorials from my lectures "**The shortest possible introduction to learning in recurrent neural networks**" at this [link](https://github.com/aleingrosso/laconeu2023_rnn).
 <br clear="left"/>
 
 ## [Junior Scientists Workshop on Recent Advances in Theoretical Neuroscience](https://indico.ictp.it/event/10481), ICTP, June 2024
@@ -72,5 +72,5 @@ I gave a mini-course on **dynamics and learning in recurrent neural networks**. 
 
 A workshop we organized at the [ICTP](https://www.ictp.it/), together with [Francesca Mastrogiuseppe](https://fmastrogiuseppe.github.io/) (SISSA), [Sebastian Goldt](https://datascience.sissa.it/person/16/sebastian-goldt) (SISSA) and [Agostina Palmigiano](https://palmigianolab.com/) (Gatsby Computational Neuroscience Unit).
 
-A great program featuring invited lectures and contributed talks from emerging scientists in Theoretical Neuroscience, featuring recent advances in the field of dynamics, plasticity, and computation in neuronal circuits, with an emphasis on both mathematical tools and biological implications.
+A great program featuring invited lectures and contributed talks from emerging scientists in Theoretical Neuroscience. The workshop showcased advances in the field of dynamics, plasticity, and computation in neuronal circuits, with an emphasis on both mathematical tools and biological implications.
 <br clear="left"/>
