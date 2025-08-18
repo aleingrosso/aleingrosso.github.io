@@ -47,7 +47,7 @@ A summer school at the Department of Mathematics, Sapienza University of Rome, S
 
 I will give a mini-course on **Dynamics and learning in recurrent neural networks**, discussing the statistical mechanical theory of deterministic and stochastic recurrent networks.
 
-#### Topics to be discussed:
+### Topics to be discussed:
 * Equilibrium and dynamics of attractor network models
 * Dynamical mean field theory for rate networks
 * Learning algorithms for RNNs

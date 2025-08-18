@@ -20,5 +20,8 @@ main:
   - title: "Teaching"
     url: /teaching/
     
+  - title: "Talks"
+    url: /talks/
+ 
   - title: "Schools and Workshops"
     url: /schools/
