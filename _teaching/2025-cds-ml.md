@@ -11,7 +11,7 @@ location: "Nijmegen"
 # CDS: Machine Learning (NWI-NM048D)
 
   * Master course - 3 EC
-  * Teaching Assistants: [Eduardo Dominguez](eduardo.dominguezvazquez@donders.ru.nl), [Mauricio Diaz-Ortiz](https://www.ru.nl/en/people/diaz-ortiz-jr-m)
+  * Teaching Assistants: [Eduardo Dominguez](mailto:eduardo.dominguezvazquez@donders.ru.nl), [Mauricio Diaz-Ortiz](https://www.ru.nl/en/people/diaz-ortiz-jr-m)
 
 This [course](https://ru.osiris-student.nl/onderwijscatalogus/extern/cursus?taal=en&cursuscode=NWI-NM048D&collegejaar=2025) is intended for Master's students in physics and mathematics as well as master's students in artificial intelligence/computer science with sufficient mathematical background.
 
