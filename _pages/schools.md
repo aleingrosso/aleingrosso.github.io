@@ -43,7 +43,7 @@ img
 
 <img class="leftAlign" src="/images/math_methods_rome.png" width=300>
 
-A summer school at the Department of Mathematics, Sapienza University of Rome, September 8-12, 2025.
+Summer school at the Department of Mathematics, Sapienza University of Rome, September 8-12, 2025.
 
 I will give a mini-course on **Dynamics and learning in recurrent neural networks**, discussing the statistical mechanical theory of deterministic and stochastic recurrent networks.
 
