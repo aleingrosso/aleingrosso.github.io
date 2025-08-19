@@ -85,4 +85,4 @@ img
 * [William T Redman](https://scholar.google.com/citations?user=-SOfw0AAAAAJ&hl=en), Johns Hopkins University (incoming assistant professor)
 * [Pietro Rotondo](https://scholar.google.com/citations?user=XCWbt2EAAAAJ&hl=en), University of Parma
 * [Gabriele Sicuro](https://scholar.google.com/citations?user=Lls7QvUAAAAJ&hl=en), University of Bologna
-* [Federica Stella](https://scholar.google.com/citations?user=RTncAdQAAAAJ&hl=en), Radboud University
+* [Federico Stella](https://scholar.google.com/citations?user=RTncAdQAAAAJ&hl=en), Radboud University
