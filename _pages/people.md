@@ -78,6 +78,7 @@ img
 * [Jean Barbier](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=it), ICTP
 * [Mario Dipoppa](https://scholar.google.com/citations?user=QaFiSZUAAAAJ&hl=it), UCLA
 * [Federica Gerace](https://scholar.google.com/citations?user=dvDLaPkAAAAJ&hl=it), University of Bologna
+* [Sebastian Goldt](https://scholar.google.com/citations?user=dvDLaPkAAAAJ&hl=it), SISSA
 * [Timo Van Kerkoele](https://scholar.google.com/citations?user=Jm4PUNUAAAAJ&hl=en), Radboud University
 * [Rosalba Pacelli](https://scholar.google.com/citations?user=DytvG6cAAAAJ&hl=en), INFN Padova
 * [Emanuele Panizon](https://scholar.google.com/citations?user=tE8SfakAAAAJ&hl=it), Area Science Park

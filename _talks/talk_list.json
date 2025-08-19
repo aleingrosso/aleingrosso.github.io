@@ -1,0 +1,342 @@
+[
+	{
+		"date" : "Upcoming: 28/10/2025",
+		"title" : "Generalization performance of narrow one-hidden layer networks in the teacher-student setting",
+		"venue" : "2025 CHAIR Structured Learning Workshop",
+		"url_venue" : "https://ui.ungpd.com/Events/60bfc7b5-c9d0-4e3e-9aec-1a6a62e1e805",
+		"institution" : "Chalmers University of Technology",
+		"url_institution" : "https://www.chalmers.se/en/",
+		"location" : "Göteborg, Sweden"
+	},
+
+	{
+		"date" : "17/07/2025",
+		"title" : "Statistical Mechanics of transfer learning in the proportional regime",
+		"venue" : "Statphys29",
+		"url_venue" : "https://statphys29.org/",
+		"location" : "Florence, ITALY"
+	},
+
+	{
+		"date" : "10/07/2025",
+		"title" : "Statistical Mechanics of transfer learning in the proportional regime",
+		"venue" : "Learning and Optimization in High Dimensions (StatPhys29 Satellite Workshop)",
+		"url_venue" : "https://bidsa.unibocconi.eu/learning-and-optimization-high-dimensions-statphys29-satellite-workshop",
+		"institution" : "Bocconi University",
+		"url_institution" : "https://www.unibocconi.it/en",
+		"location" : "Milan, ITALY"
+	},
+		
+	{
+		"date" : "30/01/2025",
+		"title" : "Statistical Mechanics of transfer learning in the proportional regime",
+		"venue" : "Invited seminar at Dutch Institute for Emergent Phenomena (DIEP)",
+		"url_venue" : "https://ias.uva.nl/content/events/2025/01/diep-seminar-series---statistical-mechanics-of-transfer-learning-in-the-proportional-limit.html",
+		"institution" : "Institute of Advanced Studies",
+		"url_institution" : "https://ias.uva.nl/",
+		"location" : "Amsterdam, The Netherlands",
+		"video" : "https://youtu.be/NHzYJUFbOzw?si=V6fC53YYxevduMAL"
+	},
+	
+	{
+		"date" : "30-01-2025",
+		"title" : "Statistical Mechanics of transfer learning in the proportional regime",
+		"venue" : "Neurotheory Seminar",
+		"url_venue" : "https://bri.ucla.edu/events/special-seminar-alessandro-ingrosso-ph-d/",
+		"institution" : "UCLA",
+		"url_institution" : "https://neurobio.ucla.edu/",
+		"location" : "Los Angeles, CA, USA"
+	},
+	
+	{
+		"date" : "30-01-2025",
+		"title" : "Statistical Mechanics of transfer learning in the proportional regime",
+		"venue" : "DeepMath2024",
+		"url_venue" : "https://deepmath-conference.com/",
+		"institution" : "Penn University",
+		"url_institution" : "https://www.upenn.edu/",
+		"location" : "Philadelphia, Pennsylvania",
+		"video" : "https://www.youtube.com/live/A0Oh5sLL2v8?si=rIDizd7Zim3LdDqS&t=23553"
+	},
+	
+	{
+		"date" : "12/06/2025",
+		"title" : "Statistical Mechanics of transfer learning in the proportional regime",
+		"venue" : "Invited seminar",
+		"institution" : "Institute de la Vision",
+		"url_institution" : "https://www.institut-vision.org/en",
+		"location" : "Paris, France"
+	},
+	
+	{
+		"date" : "31/03/2025",
+		"title" : "Statistical Mechanics of transfer learning in the proportional regime",
+		"venue" : "Invited seminar",
+		"url_venue" : "https://qbio.ens.psl.eu/en/events/external-seminar-alessandro-ingrosso-radboud-university-nl",
+		"institution" : "QBIO, Ecole Normale Superieure",
+		"url_institution" : "https://qbio.ens.psl.eu/en",
+		"location" : "Paris, France"
+	},
+	
+	{
+		"date" : "07/02/2025",
+		"title" : "Statistical Mechanics of transfer learning in the proportional regime",
+		"venue" : "Invited seminar",
+		"institution" : "University of Bologna, Department of Mathematics",
+		"url_institution" : "https://math.unibo.it/en",
+		"location" : "Bologna, ITALY"
+	},
+	
+	{
+		"date" : "31/03/2025",
+		"title" : "Statistical Mechanics of transfer learning in the proportional regime",
+		"venue" : "Seminar at the Center for theoretical neuroscience",
+		"url_venue" : "https://ctn.zuckermaninstitute.columbia.edu/",
+		"institution" : "Zuckerman Institute, Columbia University",
+		"url_institution" : "https://zuckermaninstitute.columbia.edu/",
+		"location" : "New York, NY, USA"
+	},
+
+	{
+		"date" : "28-08/2024",
+		"title" : "Statistical Mechanics of transfer learning in the proportional regime",
+		"venue" : "Autumn Physics of Data Workshop 2024",
+		"url_venue" : "https://www.aisociety-unipd.it/autumn-physics-of-data-workshop-2024/",
+		"location" : "Asiago, ITALY"
+	},
+
+	{
+		"date" : "2-6/9/2024",
+		"title" : "Statistical Mechanics of transfer learning in the proportional regime",
+		"venue" : "ROccella Conference on INference and AI - ROCKIN’ AI 2024",
+		"url_venue" : "https://sites.google.com/view/rockin-ai/home-page",
+		"location" : "Roccella Jonica, ITALY"
+	},
+
+	{
+		"date" : "09/07/2024",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "Invited Seminar at Taro Toyoizumi's lab",
+		"url_venue" : "https://cbs.riken.jp/en/faculty/t.toyoizumi/",
+		"institution" : "RIKEN",
+		"url_institution" : "https://www.riken.jp/en/",
+		"location" : "Tokyo, Japan"
+	},
+
+	{
+		"date" : "10-14/06/2024",
+		"title" : "Machine learning at the mesoscale: A computation-dissipation bottleneck",
+		"venue" : "Statistical Physics of Deep Learning summer school",
+		"url_venue" : "https://spdl2.lakecomoschool.org/",
+		"institution" : "Lake Como School of Advanced Studies",
+		"url_institution" : "https://lakecomoschool.org/",
+		"location" : "Como, ITALY"
+	},
+
+	{
+		"date" : "1/11/2023",
+		"title" : "Machine learning at the mesoscale: A computation-dissipation bottleneck",
+		"venue" : "Invited seminar",
+		"institution" : "University of Parma, Department of Physics",
+		"url_institution" : "https://smfi.unipr.it/en",
+		"location" : "Parma, ITALY"
+	},
+
+	{
+		"date" : "9-20/1/2023",
+		"title" : "Lecture: The shortest possible introduction to learning in recurrent neural networks",
+		"venue" : "Latin American Summer School in Computational Neuroscience",
+		"url_venue" : "http://profesores.elo.utfsm.cl/~mjescobar/LACONEU/index.html",
+		"location" : "Valparaiso, Chile"
+	},
+
+	{
+		"date" : "07-08/09/2023",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "Analytical Connectionism Workshop",
+		"url_venue" : "https://www.analytical-connectionism.net/workshop/2023-analytical-connectionism/",
+		"institution" : "Gatsby Computational Neuroscience Unit, UCL",
+		"url_institution" : "https://www.ucl.ac.uk/gatsby/",
+		"location" : "London, UK"
+	},
+
+	{
+		"date" : "21-23/6/2023",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "III Conference of the Italian Society of Statistical Physics - SIFS",
+		"url_venue" : "https://www.fisicastatistica.unipr.it/conf/PARMA2023/welcome_E.php",
+		"location" : "Parma, ITALY"
+	},
+
+	{
+		"date" : "4-5/6/2023",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "Joint QLS-SBP Workshop",
+		"institution" : "University of Trento, Department of Physics",
+		"url_institution" : "https://sbp.physics.unitn.it/",
+		"location" : "Trento, ITALY"
+	},
+
+	{
+		"date" : "20-24/02/2023",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "Workshop: Towards a theory of artificial and biological neural networks",
+		"url_venue" : "https://statphysneuro.github.io/",
+		"institution" : "Les Houches School of Physics",
+		"url_institution" : "https://www.houches-school-physics.com/",
+		"location" : "Les Houches, FRANCE"
+	},
+
+
+	{
+		"date" : "29/04/2022",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "Artificial Intelligence Seminar (online)",
+		"url_venue" : "https://www.amii.ca/",
+		"institution" : "Alberta Machine Intelligence Institute, University of Alberta",
+		"location" : "Alberta, CANADA",
+		"video" : "https://www.youtube.com/watch?v=UBzDVy8a0LM"
+	},
+
+	{
+		"date" : "24/11/2022",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "Seminar at Yasser Roudi's lab (online)",
+		"institution" : "Kavli Institute for System Neuroscience",
+		"url_institution" : "https://www.ntnu.edu/kavli",
+		"location" : "Trondheim, Norway"
+	},
+
+	{
+		"date" : "12-16/06/2022",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "MECO47 Conference",
+		"url_venue": "https://meco47.sciencesconf.org/",
+		"location" : "Erice, ITALY"
+	},
+
+	{
+		"date" : "3/12/2022",
+		"title" : "Data-driven emergence of convolutional structure in neural networks (poster)",
+		"venue" : "NeurReps Workshop - Symmetry and Geometry in Neural Representations",
+		"url_venue" : "https://www.neurreps.org/",
+		"location" : "New Orleans, LA, USA"
+	},
+
+	{
+		"date" : "17-18/10/2022",
+		"title" : "Data-driven emergence of convolutional structure in neural networks (poster)",
+		"venue" : "DeepMath 2022",
+		"url_venue" : "https://deepmath-conference.com/past-conferences",
+		"location" : "San Diego, CA, USA"
+	},
+
+	{
+		"date" : "21/9/2022",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "Statistical and Biological Physics group seminar",
+		"url_venue" : "https://sbp.physics.unitn.it/",
+		"institution" : "University of Trento, Department of Physics",
+		"url_institution" : "https://www.physics.unitn.it/en",
+		"location" : "Trento, ITALY"
+	},
+
+	{
+		"date" : "23/11/2022",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "Data Science Seminar",
+		"institution" : "University of Trieste, Department of Physics",
+		"url_institution" : "https://df.units.it/en",
+		"location" : "Trieste, ITALY"
+	},
+	
+	{
+		"date" : "19-21/12/2022",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "Workshop on Statistical Mechanics and nonpertubative Field Theory",
+		"url_venue" : "https://agenda.infn.it/event/28754/",
+		"institution" : "University of Bari, Department of Physics",
+		"url_institution" : "https://www.uniba.it/it/ricerca/dipartimenti/fisica",
+		"location" : "Bari, ITALY"
+	},
+
+	{
+		"date" : "6-8/6/2022",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "Workshop on Neuroscience and Statistical Physics",
+		"institution" : "SISSA",
+		"url_institution" : "https://www.sissa.it/",
+		"location" : "Trieste, ITALY"
+	},
+
+	{
+		"date" : "6/4/2022",
+		"title" : "Data-driven emergence of convolutional structure in neural networks",
+		"venue" : "Seminar at Artificial Intelligence Group",
+		"url_venue" : "https://www.unibocconi.it/en/programs/master-science/artificial-intelligence",
+		"institution" : "Bocconi University",
+		"url_institution" : "https://www.unibocconi.it/en",
+		"location" : "Milan, ITALY"
+	},
+	
+	{
+		"date" : "15-18/6/2021",
+		"title" : "Optimal Learning with Excitatory and Inhibitory Synapses",
+		"venue" : "Youth in High-Dimensions 2021",
+		"url_venue" : "https://indico.ictp.it/event/9596/",
+		"institution" : "ICTP",
+		"url_institution" : "https://www.ictp.it/",
+		"location" : "Trieste, ITALY",
+		"video" : "https://video.ictp.it/WEB/2021/2021_06_15-smr3602/2021_06_17-16_50-smr3602.mp4"
+	},
+	
+	{
+		"date" : "21-24/7/2019",
+		"title" : "Optimal learning with excitatory and inhibitory synapses",
+		"venue" : "Swartz Foundation Annual Meeting",
+		"institution" : "Janelia Research Campus",
+		"url_institution" : "https://www.janelia.org/",
+		"location" : "Lansdowne, Virginia, USA"
+	},
+
+	{
+		"date" : "17-20/03/2022",
+		"title" : "Emergence of convolutional structure in neural circuits (poster)",
+		"venue" : "COSYNE 2022",
+		"url_venue" : "https://www.cosyne.org/past-conferences",
+		"location" : "Lisbon, Portugal"
+	},
+
+	{
+		"date" : "1-6/3/2018",
+		"title" : "Training recurrent networks of excitatory/inhibitory spiking or rate neurons (poster)",
+		"venue" : "COSYNE 2018",
+		"url_venue" : "https://www.cosyne.org/past-conferences",
+		"location" : "Denver, CO, USA"
+	},
+
+	{
+		"date" : "9/3/2016",
+		"title" : "Local entropy maximization and efficient learning algorithms for neural networks",
+		"venue" : "Computational Neuroscience Seminar (invited by Wulfram Gerstner)",
+		"url_venue" : "https://www.epfl.ch/labs/lcn/events-html/computationalneuroscienceseminars/",
+		"institution" : "EPFL",
+		"url_institution" : "https://www.epfl.ch/en/",
+		"location" : "Lausanne, Switzerland"
+	},
+
+	{
+		"date" : "29/6/2015 – 1/7/2015",
+		"title" : "The patient-zero problem: a Bayesian perspective (poster)",
+		"venue" : "XX National Conference on Statistical Mechanics and Complex Systems",
+		"location" : "Parma, ITALY"
+	},
+	
+	{
+		"date" : "2-6/6/2014",
+		"title" : "The patient-zero problem with noisy observations (poster)",
+		"venue" : "NetSci 2014",
+		"url_venue" : "https://netscisociety.net/events/netsci",
+		"location" : "Berkeley, CA, USA"
+	}
+]
