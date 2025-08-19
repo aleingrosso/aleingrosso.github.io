@@ -74,15 +74,15 @@ img
 
 
 ## Main collaborators
-* [Santiago Acevedo](https://scholar.google.com/citations?user=clvYcv4AAAAJ&hl=es), SISSA
-* [Jean Barbier](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=it), ICTP
-* [Mario Dipoppa](https://scholar.google.com/citations?user=QaFiSZUAAAAJ&hl=it), UCLA
-* [Federica Gerace](https://scholar.google.com/citations?user=dvDLaPkAAAAJ&hl=it), University of Bologna
-* [Sebastian Goldt](https://scholar.google.com/citations?user=dvDLaPkAAAAJ&hl=it), SISSA
+* [Santiago Acevedo](https://scholar.google.com/citations?user=clvYcv4AAAAJ&hl=en), SISSA
+* [Jean Barbier](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en), ICTP
+* [Mario Dipoppa](https://scholar.google.com/citations?user=QaFiSZUAAAAJ&hl=en), UCLA
+* [Federica Gerace](https://scholar.google.com/citations?user=dvDLaPkAAAAJ&hl=en), University of Bologna
+* [Sebastian Goldt](https://scholar.google.com/citations?user=dvDLaPkAAAAJ&hl=en), SISSA
 * [Timo Van Kerkoele](https://scholar.google.com/citations?user=Jm4PUNUAAAAJ&hl=en), Radboud University
 * [Rosalba Pacelli](https://scholar.google.com/citations?user=DytvG6cAAAAJ&hl=en), INFN Padova
-* [Emanuele Panizon](https://scholar.google.com/citations?user=tE8SfakAAAAJ&hl=it), Area Science Park
+* [Emanuele Panizon](https://scholar.google.com/citations?user=tE8SfakAAAAJ&hl=en), Area Science Park
 * [William T Redman](https://scholar.google.com/citations?user=-SOfw0AAAAAJ&hl=en), Johns Hopkins University (incoming assistant professor)
-* [Pietro Rotondo](https://scholar.google.com/citations?user=XCWbt2EAAAAJ&hl=it), University of Parma
-* [Gabriele Sicuro](https://scholar.google.com/citations?user=Lls7QvUAAAAJ&hl=it), University of Bologna
+* [Pietro Rotondo](https://scholar.google.com/citations?user=XCWbt2EAAAAJ&hl=en), University of Parma
+* [Gabriele Sicuro](https://scholar.google.com/citations?user=Lls7QvUAAAAJ&hl=en), University of Bologna
 * [Federica Stella](https://scholar.google.com/citations?user=RTncAdQAAAAJ&hl=en), Radboud University
