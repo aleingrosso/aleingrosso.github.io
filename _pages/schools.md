@@ -80,7 +80,7 @@ A great program featuring invited lectures and contributed talks from emerging s
 
 A summer school built with the aim of promoting the field of Computational Neuroscience in Latin America, with the special _Special Topic: Machine Learning and Artificial Intelligence_.
 
-A fantastic teaching and learning experience, with students from all over South America, alongside [Cristina Savin](https://as.nyu.edu/faculty/cristina-savin.html), [Enzo Tagliazucchi](https://brainlat.uai.cl/profesor/enzo-tagliazucchi/), [Alessandro Treves](https://phdcns.sissa.it/faculty/alessandro-treves) and many others.
+A fantastic teaching and learning experience, with students from all over Latin America, alongside [Cristina Savin](https://as.nyu.edu/faculty/cristina-savin.html), [Enzo Tagliazucchi](https://brainlat.uai.cl/profesor/enzo-tagliazucchi/), [Alessandro Treves](https://phdcns.sissa.it/faculty/alessandro-treves) and [many others](http://profesores.elo.utfsm.cl/~mjescobar/LACONEU/program.html#ConfSpeakers).
 
 Find the jupyter notebooks used in the tutorials from my lectures "**The shortest possible introduction to learning in recurrent neural networks**" at this [link](https://github.com/aleingrosso/laconeu2023_rnn).
 <br clear="left"/>
