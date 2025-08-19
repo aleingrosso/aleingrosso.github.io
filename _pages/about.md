@@ -23,6 +23,6 @@ Bio
 
 I studied Cognitive Psychology (2004-2007) and Physics (2007-2013), obtaining a PhD in Physics at [PoliTo](https://www.polito.it/en) in 2016.
 
-I was a postdoctoral fellow at the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/), Columbia University (2016-2020) and an independent senior postdoc at [ICTP](https://www.ictp.it/), Trieste (2020-2024).
+I was a postdoctoral fellow at the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/), Columbia University (2016-2020) and an independent senior postdoc at the [Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/), Trieste (2020-2024).
 
 Since September 2024, I am Assistant Professor at Radboud University, Nijmegen.
