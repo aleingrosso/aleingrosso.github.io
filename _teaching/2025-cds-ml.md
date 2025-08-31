@@ -24,7 +24,7 @@ This [course](https://ru.osiris-student.nl/onderwijscatalogus/extern/cursus?taal
 * Inference and learning in graphical models
 
 ## Course Material
-Each lecture comes with an interactive jupyter notebook. The material will also be available in pdf format.
+Each lecture comes with an interactive jupyter notebook. Find the notebooks at this [repo](https://github.com/aleingrosso/cds_ml).
 
 ## Books
   * [Information Theory, Inference and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) by David MacKay.
@@ -32,16 +32,30 @@ Each lecture comes with an interactive jupyter notebook. The material will also 
 
 ## Schedule
 
-| | Week | Topic | Material | Exercises |
+| | Week | Topic | Material |
+| :--- | :--- | :--- | :--- |
+| 1 | 36 | Probability, entropy and inference | MacKay Chapter 2 + notebooks 1.1, 1.2|v
+| 2 | 37 | Model comparison | MacKay Chapter 3, 27, 28 + notebooks 2.1, 2.2 |
+| 3 | 38 | Perceptrons | notebook 3 |
+| 4 | 39 | Learning algorithms | notebook 4.1, 4.2 |
+| 5 | 40 | Deep learning | notebook 5 | TBA |
+| 6 | 41 | Graphical models | Murphy Chapter 10 + notebook 6 |
+| 7 | 42 | Mixture models and Expectation Maximization | Murphy Chapter 11 + notebook 7 |
+
+## Tutorial schedule
+
+
+| | Week | Tue | Wed | Thu |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | 36 | Probability, entropy and inference | MacKay Chapter 2 | TBA |
-| 2 | 37 | Model comparison | MacKay Chapter 3, 27, 28 | TBA |
-| 3 | 38 | Perceptrons | Slides | TBA |
-| 4 | 39 | Learning algorithms | Slides | TBA |
-| 5 | 40 | Deep learning | Slides | TBA |
-| 6 | 41 | Graphical models | Murphy Chapter 10 | TBA |
-| 7 | 42 | Mixture models and Expectation Maximization | Murphy Chapter 11 | TBA |
+| 1 | 36 | Lec 1: **Ex 1** assigned | | Lec 2: **Ex 2** assigned |
+| 2 | 37 | Tut 1: work on **Ex 1** and **Ex 2** |  | Tut 2: work on **Ex 1** and **Ex 2** |
+| 3 | 38 | Lec 3: **Ex 3** assignked | **Ex 1, 2** due | Tut 3: **Ex 1, 2** discussed - work on **Ex 3** |
+| 4 | 39 | Lec 4: **Ex 4** assigned | **Ex 3** due | Tut 4: **Ex 3** discussed - work on **Ex 4** |
+| 5 | 40 | Lec 5: **Ex 5** assigned | **Ex 4** due | Tut 5: **Ex 4** discussed - work on **Ex 5** |
+| 6 | 41 | Lec 6: **Ex 6** assigned | **Ex 5** due | Tut 6: **Ex 5** discussed - work on **Ex 6** |
+| 7 | 42 | Lec 7: **Ex 7** assigned | **Ex 6** due | Tut 7: **Ex 6** discussed - work on **Ex 7** |
+| 8 | 43 |  | **Ex 7** due | Bonus Tut: online discussion of **Ex 7**|
 
 ## Exam
 
-There will be no final examination. The students will work in groups of maximum 3 persons. The grade will be the weighted average of homework assignments.
+There will be no final examination. The students will work in groups of maximum 3 persons. The grade will be the average of homework assignments. Each student gets the grade of their group.
