@@ -34,11 +34,11 @@ Each lecture comes with an interactive jupyter notebook. Find the notebooks at t
 
 | | Week | Topic | Material |
 | :--- | :--- | :--- | :--- |
-| 1 | 36 | Probability, entropy and inference | MacKay Chapter 2 + notebooks 1.1, 1.2|v
+| 1 | 36 | Probability, entropy and inference | MacKay Chapter 2 + notebooks 1.1, 1.2|
 | 2 | 37 | Model comparison | MacKay Chapter 3, 27, 28 + notebooks 2.1, 2.2 |
 | 3 | 38 | Perceptrons | notebook 3 |
 | 4 | 39 | Learning algorithms | notebook 4.1, 4.2 |
-| 5 | 40 | Deep learning | notebook 5 | TBA |
+| 5 | 40 | Deep learning | notebook 5 |
 | 6 | 41 | Graphical models | Murphy Chapter 10 + notebook 6 |
 | 7 | 42 | Mixture models and Expectation Maximization | Murphy Chapter 11 + notebook 7 |
 
