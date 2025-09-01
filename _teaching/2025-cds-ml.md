@@ -44,12 +44,13 @@ Each lecture comes with an interactive jupyter notebook. Find the notebooks at t
 
 ## Tutorial schedule
 
+Tutorials will be both in person and online. For the online tutorials, join the [Discord server](https://discord.gg/K3vpESmN3S).
 
 | | Week | Tue | Wed | Thu |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | 36 | Lec 1: **Ex 1** assigned | | Lec 2: **Ex 2** assigned |
 | 2 | 37 | Tut 1: work on **Ex 1** and **Ex 2** |  | Tut 2: work on **Ex 1** and **Ex 2** |
-| 3 | 38 | Lec 3: **Ex 3** assignked | **Ex 1, 2** due | Tut 3: **Ex 1, 2** discussed - work on **Ex 3** |
+| 3 | 38 | Lec 3: **Ex 3** assigned | **Ex 1, 2** due | Tut 3: **Ex 1, 2** discussed - work on **Ex 3** |
 | 4 | 39 | Lec 4: **Ex 4** assigned | **Ex 3** due | Tut 4: **Ex 3** discussed - work on **Ex 4** |
 | 5 | 40 | Lec 5: **Ex 5** assigned | **Ex 4** due | Tut 5: **Ex 4** discussed - work on **Ex 5** |
 | 6 | 41 | Lec 6: **Ex 6** assigned | **Ex 5** due | Tut 6: **Ex 5** discussed - work on **Ex 6** |
