@@ -1,9 +1,3 @@
----
-permalink: /2025_high_dim_rome/
-title: "Mathematical methods for high-dimensional data"
-author_profile: true
----
-
 Summer school at Sapienza University of Rome, September 8-12, 2025
 
 ## Short course on Dynamics and learning in recurrent neural networks
