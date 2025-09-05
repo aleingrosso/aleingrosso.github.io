@@ -52,6 +52,8 @@ I will give a mini-course on **Dynamics and learning in recurrent neural network
 * Dynamical mean field theory for rate networks
 * Learning algorithms for RNNs
 
+Find a brief list of suggested readings at this [link](2025_high_dim_rome.md).
+
 <br clear="left"/>
 
 # Past schools and workshops
